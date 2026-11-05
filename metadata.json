@@ -1,0 +1,6 @@
+{
+  "name": "RecipeHub",
+  "description": "AI-Powered Multiplatform Recipe Application with ingredient-based Gemini generation, TheMealDB discovery, personal recipe manager, interactive cooking timer, and cross-platform architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
